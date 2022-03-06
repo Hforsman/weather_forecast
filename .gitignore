@@ -1,0 +1,6 @@
+/venv
+
+/.idea
+
+# MAC OS folder information
+.DS_Store
